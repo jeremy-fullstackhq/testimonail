@@ -95,4 +95,4 @@ function AutoDivScroll(elemId, speed, step, plane, options) {
     }),
     this.init();
 }
-new AutoDivScroll("scrolling-testimonial", "20", "1", "1");
+new AutoDivScroll("scrolling-testimonial", "25", "1", "1");
